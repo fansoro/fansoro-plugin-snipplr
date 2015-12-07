@@ -1,6 +1,6 @@
 # Snipplr
 
-Plugin for quick embedding Snipplr snippets.
+Plugin for quick embedding [Snipplr](http://snipplr.com/) snippets.
 
 ## Installation
 See [this instruction](http://morfy.org/documentation/plugins/plugins-installation)
