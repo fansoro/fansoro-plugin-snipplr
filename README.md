@@ -3,7 +3,7 @@
 Plugin for quick embedding [Snipplr](http://snipplr.com/) snippets.
 
 ## Installation
-See [this instruction](http://morfy.org/documentation/plugins/plugins-installation)
+See [this instruction](http://fansoro.org/documentation/plugins/plugins-installation)
 
 ## Usage in page content
 
@@ -24,4 +24,4 @@ See [this instruction](http://morfy.org/documentation/plugins/plugins-installati
 | enabled | true | or `false` to disable the plugin |
 
 ## License
-See  [LICENSE](https://github.com/morfy-cms/morfy-plugin-snipplr/blob/master/LICENSE)
+See  [LICENSE](https://github.com/fansoro/fansoro-plugin-snipplr/blob/master/LICENSE)

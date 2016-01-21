@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Morfy Snipplr Plugin
+ * Fansoro Snipplr Plugin
  *
  * (c) Romanenko Sergey / Awilum <awilum@msn.com>
  *
